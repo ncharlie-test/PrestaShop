@@ -1,4 +1,4 @@
-About PrestaShop
+About PrestaShop (country)
 --------
 
 [![Build Status](https://travis-ci.org/PrestaShop/PrestaShop.svg?branch=develop)](https://travis-ci.org/PrestaShop/PrestaShop)
